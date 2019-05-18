@@ -1,7 +1,7 @@
 {
-  "name": "my-component",
+  "name": "mh-publish-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
