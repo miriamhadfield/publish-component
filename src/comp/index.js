@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles.css';
+import './../styles.css';
 const MyComponent = () => (
     <h1>Hello Miriam from My Component</h1>
 );

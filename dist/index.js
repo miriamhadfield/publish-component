@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _index = require('./index');
+var _index = require('./comp/index');
 
 Object.defineProperty(exports, 'MyComponent', {
   enumerable: true,
@@ -13,7 +13,7 @@ Object.defineProperty(exports, 'MyComponent', {
   }
 });
 
-var _indexCopy = require('./indexCopy');
+var _indexCopy = require('./comp/indexCopy');
 
 Object.defineProperty(exports, 'MyComponentCopy', {
   enumerable: true,

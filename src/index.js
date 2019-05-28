@@ -1,3 +1,3 @@
 
-export { default as MyComponent } from './index';
-export { default as MyComponentCopy } from './indexCopy';
+export { default as MyComponent } from './comp/index';
+export { default as MyComponentCopy } from './comp/indexCopy';
